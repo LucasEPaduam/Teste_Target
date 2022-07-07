@@ -14,7 +14,7 @@ Teste realizado para vaga de estágio em desenvolvimento.
 ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
 IMPORTANTE:
-Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
+ - [Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código]()
 
 > 3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, 
 que calcule e retorne:
